@@ -543,6 +543,8 @@ export type {
   LimbActionLogEntry,
   LimbAuthLevel,
   LimbCapability,
+  LimbCommandParamSchema,
+  LimbCommandSchema,
   LimbInvokeResult,
   LimbLease,
   LimbNodeRecord,
